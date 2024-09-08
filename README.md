@@ -5,9 +5,4 @@
 - 📫 How to reach me: info@stevegamesstudios.com
 - 😄 Pronouns: he/hime
 - ⚡ Fun fact: I made my first game with 12 in Skratch in school.
-#TogetherWeGame
-
-<!---
-SteveGamesStudios/SteveGamesStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- #TogetherWeGame
